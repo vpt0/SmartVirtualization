@@ -1,43 +1,36 @@
-# Smart Virtualization for Android
+# About Smart Virtualization
 
-## Description
-An innovative Android application that enables resource sharing between mobile devices, effectively creating a virtual phone environment. This project aims to implement a mobile hypervisor that allows devices to share computational resources like RAM and processing power over a network connection.
+## Project Overview
+This Android application prototype explores the concept of mobile virtualization, allowing devices to share computational resources over a network connection.
 
-## Key Features
-- Device-to-device resource sharing capability
-- Real-time resource monitoring and allocation
-- Virtual environment management
-- Network connectivity handling
-- Resource optimization algorithms
+## Technical Details
 
-## Technical Stack
-- Android SDK
-- Java/Kotlin
+### Architecture
+- Client-Server model
+- Resource monitoring system
+- Virtual environment manager
+- Network communication layer
+
+### Implementation
+- Built using Android Studio
+- Java-based implementation
 - Network protocols for device communication
-- System-level resource management
-- Custom virtualization implementation
+- System resource management APIs
 
-## Current Status
-This is a prototype implementation demonstrating the core concepts of mobile resource sharing and virtualization. The project is currently incomplete and under development. This prototype was developed with the assistance of Cursor AI to explore the possibilities of mobile resource virtualization.
+### Development Status
+This is a prototype version demonstrating core concepts of:
+- Resource sharing between devices
+- Virtual environment creation
+- Basic resource monitoring
+- Network connectivity
 
-## Future Roadmap
-- Enhanced security protocols
-- Improved resource allocation algorithms
-- Multi-device support optimization
-- User interface refinements
-- Performance monitoring dashboard
-- Power consumption optimization
+## Development Timeline
+- Initial Prototype: November 2024
+- Basic functionality implementation
+- UI/UX design
+- Resource monitoring system
 
-## Installation
-1. Clone the repository
-2. Open in Android Studio
-3. Sync Gradle files
-4. Run on Android device
-
-## Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-
-
-## Acknowledgments
-Special thanks to Cursor AI for assistance in development and implementation of this prototype.
+## Credits
+- Developed by Ved Prakash Tiwari
+- Built with assistance from Cursor AI
+- Android Studio and related tools
