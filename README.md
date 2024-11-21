@@ -18,7 +18,7 @@ A prototype Android application exploring mobile hypervisor capabilities. This p
 ## Project Status ⚡
 This is a prototype implementation developed with assistance from Cursor AI. Currently under development and exploring core virtualization concepts.
 
-## Screenshots 📸
+
 
 ## Future Development 🔮
 - Enhanced security protocols
