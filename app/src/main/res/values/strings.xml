@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App and General -->
+    <string name="app_name">Smart Virtualization</string>
+    <string name="no_network_connection">No network connection available</string>
+
+    <!-- Client Activity -->
+    <string name="ip_address">IP Address</string>
+    <string name="session_id">Session ID</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="status_connecting">Connecting...</string>
+    <string name="status_connected">Connected</string>
+    <string name="error_empty_fields">Please enter both IP address and session ID</string>
+    <string name="error_connection_failed">Connection failed: %1$s</string>
+    <string name="error_connection">Error connecting: %1$s</string>
+    <string name="remote_screen_view">Remote Screen View</string>
+
+    <!-- Host Activity -->
+    <string name="start_hosting">Start Hosting</string>
+    <string name="stop_hosting">Stop Hosting</string>
+    <string name="status_hosting">Status: Hosting</string>
+    <string name="status_stopped">Status: Stopped</string>
+    <string name="screen_sharing_permission_denied">Screen sharing permission denied</string>
+    <string name="failed_to_start_server">Failed to start server</string>
+    <string name="client_connected">Client Connected</string>
+    <string name="host_screen">Host Screen</string>
+    <string name="join_session">Join Session</string>
+    <string name="qr_code_description">QR Code for session</string>
+</resources>
